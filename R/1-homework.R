@@ -23,6 +23,7 @@ factorial <- function(x) {
 
 }
 
+factorial(12)
 
 #---------------------
 # 2.
